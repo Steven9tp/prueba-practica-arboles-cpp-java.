@@ -36,14 +36,14 @@ text
 
 ## Requisitos Técnicos Cumplidos
 
-- ✅ Árbol binario de búsqueda (ABB)
-- ✅ Recursividad en recorridos
-- ✅ Punteros en C++
-- ✅ Cola (queue) para BFS
-- ✅ Clases y objetos (POO)
-- ✅ Código modular
-- ✅ Validación de datos (cédulas duplicadas)
-- ✅ Comentarios explicativos
+-  Árbol binario de búsqueda (ABB)
+-  Recursividad en recorridos
+-  Punteros en C++
+-  Cola (queue) para BFS
+-  Clases y objetos (POO)
+-  Código modular
+-  Validación de datos (cédulas duplicadas)
+-  Comentarios explicativos
 
 ## Compilación y Ejecución
 
@@ -106,6 +106,7 @@ Selecciona opción 12 y 13, captura ambos resultados.
 
 
 ##  **Estructura final del repositorio**
+````
 prueba-practica-arboles-cpp-java/
 │
 ├── main.cpp # Código fuente completo
@@ -117,3 +118,4 @@ prueba-practica-arboles-cpp-java/
 ├── inorden.png
 ├── bfs.png
 └── aprobados.png
+````
